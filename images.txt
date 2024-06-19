@@ -1,1 +1,2 @@
 nginx:latest
+node:12.16.1
