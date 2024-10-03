@@ -7,3 +7,4 @@ redis:3.2.12
 php:7.4-fpm
 caddy:latest
 jpomdocker/jpom:latest
+python:3.9.18
