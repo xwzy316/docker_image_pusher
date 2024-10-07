@@ -9,3 +9,4 @@ caddy:latest
 jpomdocker/jpom:latest
 python:3.9.18
 python:3.6.8
+centos:7
