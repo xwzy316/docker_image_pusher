@@ -10,4 +10,4 @@ jpomdocker/jpom:latest
 python:3.9.18
 python:3.6.8
 centos:7
-alpine:latest
+golang:1.22-alpine3.19
