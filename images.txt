@@ -14,3 +14,4 @@ alpine:latest
 golang:1.22-alpine3.19
 ghcr.io/jaimeqian/nginx-acme:latest
 zhaozuodong/nginx-certbot:latest
+php:7.3-fpm
