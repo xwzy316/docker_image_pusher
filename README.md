@@ -11,6 +11,7 @@
 B站，抖音，Youtube全网同名，转载请注明作者<br>
 
 ## 使用方式
+registry.cn-hangzhou.aliyuncs.com/xwzy1130/php:7.3-fpm
 
 
 ### 配置阿里云
