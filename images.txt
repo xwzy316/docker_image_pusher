@@ -16,3 +16,4 @@ ghcr.io/jaimeqian/nginx-acme:latest
 zhaozuodong/nginx-certbot:latest
 php:7.3-fpm
 guovern/tv-driver:latest
+foamzou/melody
