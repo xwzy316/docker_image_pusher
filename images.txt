@@ -17,3 +17,5 @@ zhaozuodong/nginx-certbot:latest
 php:7.3-fpm
 guovern/tv-driver:latest
 foamzou/melody
+4gray/iptvnator-backend:latest
+4gray/iptvnator:latest
