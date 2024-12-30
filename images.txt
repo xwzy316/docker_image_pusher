@@ -24,3 +24,4 @@ pgvector/pgvector:pg16
 minio/minio
 casbin/casdoor
 lobehub/lobe-chat-database
+lobehub/lobe-chat:v1.42.1
