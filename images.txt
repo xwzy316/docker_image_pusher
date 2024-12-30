@@ -19,3 +19,8 @@ guovern/tv-driver:latest
 foamzou/melody
 4gray/iptvnator-backend:latest
 4gray/iptvnator:latest
+alpine
+pgvector/pgvector:pg16
+minio/minio
+casbin/casdoor
+lobehub/lobe-chat-database
