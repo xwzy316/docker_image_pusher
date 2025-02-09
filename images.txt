@@ -25,3 +25,8 @@ pgvector/pgvector:pg16
 minio/minio:RELEASE.2025-01-18T00-31-37Z-cpuv1
 casbin/casdoor:v1.831.0
 lobehub/lobe-chat-database:v1.52.8
+--platform linux/arm64/v8 alpine:3.21.2
+--platform linux/arm64 pgvector/pgvector:pg16
+--platform linux/arm64 minio/minio:RELEASE.2025-01-18T00-31-37Z-cpuv1
+--platform linux/arm64 casbin/casdoor:v1.831.0
+--platform linux/arm64 lobehub/lobe-chat-database:v1.52.10
