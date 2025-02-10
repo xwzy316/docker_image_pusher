@@ -38,10 +38,12 @@ lobehub/lobe-chat-database:v1.52.8
 --platform linux/arm64/v8 redis:6-alpine
 langgenius/dify-sandbox:0.2.10-arm64
 --platform linux/arm64/v8 ubuntu/squid:6.10-24.10_edge
+--platform linux/arm64 certbot/certbot:v3.1.0
 --platform linux/arm64/v8 nginx:1.27.4
 --platform linux/arm64 pingcap/tidb:v8.4.0
 --platform linux/arm64 semitechnologies/weaviate:1.19.0
 --platform linux/arm64 langgenius/qdrant:v1.7.3
+--platform linux/arm64 couchbase/server:7.6.5
 --platform linux/arm64 tensorchord/pgvecto-rs:pg16-v0.3.0
 --platform linux/arm64 ghcr.io/chroma-core/chroma:0.5.20
 --platform linux/arm64 quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
@@ -54,4 +56,4 @@ container-registry.oracle.com/database/free:23.6.0.0-arm64
 --platform linux/arm64 myscale/myscaledb:1.6.4
 --platform linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 --platform linux/arm64 docker.elastic.co/kibana/kibana:8.14.3
---platform linux/arm64 downloads.unstructured.io/unstructured-io/unstructured-api:latest
+--platform linux/arm64 robwilkes/unstructured-api:0.0.82 
