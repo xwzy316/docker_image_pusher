@@ -19,7 +19,7 @@ guovern/tv-driver:latest
 foamzou/melody
 4gray/iptvnator-backend:latest
 4gray/iptvnator:latest
-lobehub/lobe-chat:v1.52.4
+lobehub/lobe-chat:v1.55.4
 alpine:3.21.2
 pgvector/pgvector:pg16
 minio/minio:RELEASE.2025-01-18T00-31-37Z-cpuv1
