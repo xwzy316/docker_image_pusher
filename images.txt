@@ -32,8 +32,8 @@ lobehub/lobe-chat-database:v1.52.8
 --platform linux/arm64 casbin/casdoor:v1.831.0
 --platform linux/arm64 lobehub/lobe-chat-database:v1.52.10
 
---platform linux/arm64 langgenius/dify-api:0.15.3
---platform linux/arm64 langgenius/dify-web:0.15.3
+--platform linux/arm64 langgenius/dify-api:1.0.0
+--platform linux/arm64 langgenius/dify-web:1.0.0
 --platform linux/arm64/v8 postgres:15-alpine
 --platform linux/arm64/v8 redis:6-alpine
 langgenius/dify-sandbox:0.2.10-arm64
